@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?php wp_head(); ?>    
     
-    <style>
+    <!-- <style>
         /* Изолированные стили для меню с префиксами, чтобы избежать конфликтов */
         .rs-site-header {
             position: relative;
@@ -23,8 +23,10 @@
 
         .rs-container {
             display: flex;
-            justify-content: space-between;
             align-items: center;
+            justify-content: center;
+            padding-top: 20px;
+            padding-bottom: 20px;
         }
 
         /* Стили для основного меню */
@@ -217,6 +219,11 @@
             .rs-burger-menu {
                 display: flex;
             }
+            .rs-container {
+                display: flex;
+                justify-content: left !important;
+                /* background-color: red;  */
+            }
         }
 
         @media (min-width: 993px) {
@@ -224,7 +231,7 @@
                 display: none;
             }
         }
-    </style>
+    </style> -->
 </head>
 <body <?php body_class(); ?>>
     <header id="site-header" class="site-header rs-site-header">

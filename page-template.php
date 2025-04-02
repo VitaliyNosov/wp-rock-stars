@@ -28,7 +28,7 @@ get_header(); ?>
   </div>
 </header>
 
-<section id="fh5co-home" data-section="home" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/full_image_1.jpg);" data-stellar-background-ratio="0.5">
+<section id="fh5co-home" data-section="home" style="background-image: url(<?php echo get_template_directory_uri(); ?>/common/images/abstract-retro-style-illustration-vector.jpg);" data-stellar-background-ratio="0.5">
   <div class="gradient"></div>
   <div class="container">
     <div class="text-wrap">
@@ -59,7 +59,7 @@ get_header(); ?>
       </div>
       <div class="row">
         <div class="core-features">
-          <div class="grid2 to-animate" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/full_image_2.jpg);"></div>
+          <div class="grid2 to-animate" style="background-image: url(<?php echo get_template_directory_uri(); ?>/common/images/full_image_2.jpg);"></div>
           <div class="grid2">
             <div class="core-f">
               <div class="row">
@@ -142,7 +142,7 @@ get_header(); ?>
       <div class="row">
         <!-- Add dynamic project grid here if necessary -->
         <div class="col-md-12 text-center">
-          <div class="project-grid to-animate-2" style="background-image: url(<?php echo get_template_directory_uri(); ?>/images/project-1.jpg);">
+          <div class="project-grid to-animate-2" style="background-image: url(<?php echo get_template_directory_uri(); ?>/common/images/project-1.jpg);">
             <div class="desc">
               <h3><a href="#">MasCom Template</a></h3>
               <span>By: Louie D' Great</span>
@@ -229,28 +229,28 @@ get_header(); ?>
     <div class="row">
       <div class="col-md-3 col-sm-6">
         <div class="team-member to-animate">
-          <img src="<?php echo get_template_directory_uri(); ?>/images/person_1.jpg" class="img-responsive" alt="Team member">
+          <img src="<?php echo get_template_directory_uri(); ?>/common/images/person_1.jpg" class="img-responsive" alt="Team member">
           <h3>John Doe</h3>
           <p>CEO / Founder</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6">
         <div class="team-member to-animate">
-          <img src="<?php echo get_template_directory_uri(); ?>/images/person_2.jpg" class="img-responsive" alt="Team member">
+          <img src="<?php echo get_template_directory_uri(); ?>/common/images/person_2.jpg" class="img-responsive" alt="Team member">
           <h3>Jane Smith</h3>
           <p>Creative Director</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6">
         <div class="team-member to-animate">
-          <img src="<?php echo get_template_directory_uri(); ?>/images/person_3.jpg" class="img-responsive" alt="Team member">
+          <img src="<?php echo get_template_directory_uri(); ?>/common/images/person_3.jpg" class="img-responsive" alt="Team member">
           <h3>Mark Johnson</h3>
           <p>Lead Developer</p>
         </div>
       </div>
       <div class="col-md-3 col-sm-6">
         <div class="team-member to-animate">
-          <img src="<?php echo get_template_directory_uri(); ?>/images/person_4.jpg" class="img-responsive" alt="Team member">
+          <img src="<?php echo get_template_directory_uri(); ?>/common/images/person_4.jpg" class="img-responsive" alt="Team member">
           <h3>Emily Davis</h3>
           <p>Marketing Specialist</p>
         </div>
