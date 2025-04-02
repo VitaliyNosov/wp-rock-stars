@@ -34,7 +34,7 @@ get_header();
         <?php
         $args = array(
             'post_type' => 'post',
-            'posts_per_page' => 6,
+            'posts_per_page' => 5,
             'post_status' => 'publish'
         );
         
